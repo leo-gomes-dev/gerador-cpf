@@ -43,7 +43,7 @@ O script `cpf.js` automatiza exatamente esse fluxo matricial simulado na planilh
 
 ## 💡 Desafios de Evolução (Para os Alunos)
 
-Se você já consolidou toda a lógica explicada em aula pelo **Professor Leo**, avance no projeto implementando os seguintes pontos técnicos:
+Se você já consolidou toda a lógica explicada em aula, avance no projeto implementando os seguintes pontos técnicos:
 
 - **Validação de Sequências Repetidas:** Crie uma função auxiliar que impeça o algoritmo de dar como "Válido" strings contendo números totalmente repetidos (como `111.111.111-11`), pois eles passam na validação matemática pura mas não são CPFs reais.
 - **Máscara Dinâmica em Tempo Real:** Altere o evento para capturar as entradas à medida que o usuário digita (`input`), formatando e adicionando os pontos e o hífen na tela automaticamente sem a necessidade de clicar em um botão.
